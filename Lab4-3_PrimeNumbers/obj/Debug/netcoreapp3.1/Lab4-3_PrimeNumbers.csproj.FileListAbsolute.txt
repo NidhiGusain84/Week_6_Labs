@@ -1,0 +1,13 @@
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\bin\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.exe
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\bin\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.deps.json
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\bin\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.runtimeconfig.json
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\bin\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.runtimeconfig.dev.json
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\bin\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.dll
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\bin\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.pdb
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.csprojAssemblyReference.cache
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.AssemblyInfoInputs.cache
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.AssemblyInfo.cs
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.dll
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.pdb
+C:\Week6\LabsOfWeek6\Lab4-3_PrimeNumbers\obj\Debug\netcoreapp3.1\Lab4-3_PrimeNumbers.genruntimeconfig.cache
